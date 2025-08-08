@@ -39,4 +39,4 @@ We recommend following these best practices to ensure the security of your own d
 
 For any security-related issues, please contact us at security@v4nt.com.
 
-Thank you for helping us keep OfficialV4NT/v4nt secure.
+Thank you for helping us keep v4nt secure.
