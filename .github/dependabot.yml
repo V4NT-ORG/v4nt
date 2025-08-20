@@ -8,15 +8,7 @@ updates:
     open-pull-requests-limit: 10
     target-branch: "main"
     versioning-strategy: "increase"
-    reviewers:
-      - ""
-    ignore:
-      - dependency-name: "svelte"
-        versions: ["<4.0.0"]
-      - dependency-name: "vite"
-        versions: ["<5.0.0"]
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "daily"
-    open-pull-requests-limit: 15
