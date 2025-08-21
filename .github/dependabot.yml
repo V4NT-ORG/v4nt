@@ -4,10 +4,7 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      day: "monday"
-    open-pull-requests-limit: 10
-    target-branch: "main"
-    versioning-strategy: "increase"
+
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
